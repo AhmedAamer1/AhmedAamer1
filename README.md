@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋 I'm Ahmed Aamer
 
-<!--
-**AhmedAamer1/AhmedAamer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Researcher | MSc in AI Engineering @ Zewail City
 
-Here are some ideas to get you started:
+Deep Learning • Computer Vision • Explainable AI • NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- MSc AI Engineering @ Zewail City
+- Teaching Assistant
+- Interested in Deep Learning and Computer Vision
+- Passionate about Paper Implementations and Research
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+
+---
+
+## 📚 Featured Repositories
+
+### 📚 AI-Roadmaps
+Complete AI roadmap from beginner to intermediate.
+
+### 🧠 Paper Implementations
+Re-implementing and improving research papers.
+
+### 👁 Computer Vision Projects
+
+### ⚡ Time-Series Projects
+
+### 🤖 Generative AI
+
+---
+
+## 🔬 Research Interests
+
+- Explainable AI
+- Medical AI
+- Computer Vision
+- Time-Series Analysis
+- LLMs
+
+---
+
+## 🌐 Connect with Me
+
+LinkedIn:
+https://linkedin.com/in/YOUR-LINK
+
+Kaggle:
+https://kaggle.com/YOUR-USERNAME
+
+Email:
+your_email@gmail.com
