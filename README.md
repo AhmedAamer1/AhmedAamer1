@@ -54,11 +54,10 @@ Re-implementing and improving research papers.
 
 ## 🌐 Connect with Me
 
-LinkedIn:
-[https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/ahmed-aamer-878458221/)
+[LinkedIn](https://www.linkedin.com/in/ahmed-aamer-878458221/)
 
-Kaggle:
-https://kaggle.com/YOUR-USERNAME
+[Kaggle:](https://www.kaggle.com/ahmedaamer)
+
 
 Email:
-your_email@gmail.com
+ahmedaamerahmed1@gmail.com
