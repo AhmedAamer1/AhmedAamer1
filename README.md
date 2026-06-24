@@ -43,6 +43,7 @@ Re-implementing and improving research papers.
 
 ## 🔬 Research Interests
 
+- Sustainable AI
 - Explainable AI
 - Medical AI
 - Computer Vision
@@ -54,7 +55,7 @@ Re-implementing and improving research papers.
 ## 🌐 Connect with Me
 
 LinkedIn:
-https://linkedin.com/in/YOUR-LINK
+[https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/ahmed-aamer-878458221/)
 
 Kaggle:
 https://kaggle.com/YOUR-USERNAME
