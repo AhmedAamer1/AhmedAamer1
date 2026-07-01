@@ -242,7 +242,7 @@ Advanced CV         →  Vision Transformers, 3D vision, video understanding
 
 | Category | Detail |
 |---|---|
-| **Teaching** | Teaching Assistant, CSAI Dept., Zewail City (Sep 2025 – Present) | Teached (Deep learning, Speech Recognition, Data Acquisition, Logic Design)
+| **Teaching** | Teaching Assistant, CSAI Dept., Zewail City (Sep 2025 – Present)  Teached (Deep learning, Speech Recognition, Data Acquisition, Logic Design)|
 | **Instruction** | AI & Programming Instructor, iSchool / Ministry of Communications (Jul 2025 – Present) |
 | **Research** | MSc in AI Engineering, Zewail City (Jan 2026 – 2028) |
 | **Instruction** | AI Instructor, Ministry of Youth & Sports — trained 200+ students |
