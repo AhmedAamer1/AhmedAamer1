@@ -136,18 +136,7 @@ Open to         →  Research collaborations · Paper co-authorship · Open-sour
 
 ---
 
-## Paper Implementations
 
-<!-- Add rows as you implement papers. Follow the format below. -->
-
-| Paper | Domain | Framework | Notes | Status |
-|---|---|---|---|---|
-| _Add paper title_ | Computer Vision | PyTorch | _Reproduction + ablation_ | 🔄 In Progress |
-| _Add paper title_ | NLP / LLMs | PyTorch | _Extension with RAG_ | 📋 Planned |
-| _Add paper title_ | Generative AI | PyTorch | _Custom diffusion variant_ | 📋 Planned |
-| _Add paper title_ | XAI | PyTorch + Captum | _Benchmark on medical data_ | 📋 Planned |
-
----
 
 ## Selected Projects
 
