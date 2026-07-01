@@ -107,7 +107,7 @@ Open to         →  Research collaborations · Paper co-authorship · Open-sour
 | Repository | Description | Topics |
 |---|---|---|
 | [AI-Roadmaps](https://github.com/AhmedAamer1) <!-- REPO_LINK --> | Structured learning paths from ML fundamentals to advanced AI research. | `roadmap` `learning` `curriculum` |
-| [Paper-Implementations]([https://github.com/AhmedAamer1](https://github.com/AhmedAamer1/Paper-Implementation)) <!-- REPO_LINK --> | Clean, well-documented re-implementations of seminal AI papers with extensions. | `research` `pytorch` `deep-learning` |
+| [Paper-Implementations](https://github.com/AhmedAamer1/Paper-Implementation) <!-- REPO_LINK --> | Clean, well-documented re-implementations of seminal AI papers with extensions. | `research` `pytorch` `deep-learning` |
 | [Computer-Vision-Projects](https://github.com/AhmedAamer1) <!-- REPO_LINK --> | Applied CV projects: detection, segmentation, tracking, and XAI visualizations. | `opencv` `computer-vision` `pytorch` |
 | [Generative-AI](https://github.com/AhmedAamer1) <!-- REPO_LINK --> | Experiments with diffusion models, LLMs, and RAG pipelines. | `genai` `llm` `rag` `diffusion` |
 | [Guide-Me — Graduation Project](https://github.com/AhmedAamer1) <!-- REPO_LINK --> | AI-powered educational platform: LLMs + RAG + agents + LaTeX CV generation. Grade: **A+** | `rag` `agents` `llm` `latex` |
