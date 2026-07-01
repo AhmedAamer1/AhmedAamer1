@@ -242,7 +242,7 @@ Advanced CV         →  Vision Transformers, 3D vision, video understanding
 
 | Category | Detail |
 |---|---|
-| **Teaching** | Teaching Assistant, CSAI Dept., Zewail City (Sep 2025 – Present) |
+| **Teaching** | Teaching Assistant, CSAI Dept., Zewail City (Sep 2025 – Present) | Teached (Deep learning, Speech Recognition, Data Acquisition, Logic Design)
 | **Instruction** | AI & Programming Instructor, iSchool / Ministry of Communications (Jul 2025 – Present) |
 | **Research** | MSc in AI Engineering, Zewail City (Jan 2026 – 2028) |
 | **Instruction** | AI Instructor, Ministry of Youth & Sports — trained 200+ students |
@@ -252,7 +252,7 @@ Advanced CV         →  Vision Transformers, 3D vision, video understanding
 | **Certification** | DeepLearning.AI: Supervised Machine Learning |
 | **Certification** | IBM Data Analysis with Python |
 | **Certification** | ITI Business Intelligence Training |
-| **Academics** | B.Sc. AI Engineering, Mansoura University — GPA 3.31, Graduated 2025 |
+| **Academics** | B.Sc. AI Engineering, Mansoura University —  Graduated 2025 |
 
 ---
 
