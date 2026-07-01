@@ -17,7 +17,7 @@
 
 ## About
 
-MSc candidate in AI Engineering at Zewail City of Science and Technology, with a B.Sc. in Artificial Intelligence Engineering from Mansoura University (GPA 3.31). Currently a Teaching Assistant in the CSAI Department and an AI & Programming Instructor at iSchool, affiliated with Egypt's Ministry of Communications and Information Technology.
+MSc candidate in AI Engineering at Zewail City of Science and Technology, with a B.Sc. in Artificial Intelligence Engineering from Mansoura University . Currently a Teaching Assistant in the CSAI Department and an AI & Programming Instructor at iSchool, affiliated with Egypt's Ministry of Communications and Information Technology.
 
 My work sits at the intersection of **Explainable AI**, **Computer Vision**, **Generative AI**, and **Sustainable AI**. I build research-grade implementations, contribute to open-source tooling, and design AI curricula for the next generation of engineers.
 
@@ -106,7 +106,7 @@ Open to         →  Research collaborations · Paper co-authorship · Open-sour
 
 | Repository | Description | Topics |
 |---|---|---|
-| [AI-Roadmaps](https://github.com/AhmedAamer1) <!-- REPO_LINK --> | Structured learning paths from ML fundamentals to advanced AI research. | `roadmap` `learning` `curriculum` |
+| [AI-Roadmaps](https://github.com/AhmedAamer1/AI-Roadmaps) <!-- REPO_LINK --> | Structured learning paths from ML fundamentals to advanced AI research. | `roadmap` `learning` `curriculum` |
 | [Paper-Implementations](https://github.com/AhmedAamer1/Paper-Implementation) <!-- REPO_LINK --> | Clean, well-documented re-implementations of seminal AI papers with extensions. | `research` `pytorch` `deep-learning` |
 | [Computer-Vision-Projects](https://github.com/AhmedAamer1) <!-- REPO_LINK --> | Applied CV projects: detection, segmentation, tracking, and XAI visualizations. | `opencv` `computer-vision` `pytorch` |
 | [Generative-AI](https://github.com/AhmedAamer1) <!-- REPO_LINK --> | Experiments with diffusion models, LLMs, and RAG pipelines. | `genai` `llm` `rag` `diffusion` |
